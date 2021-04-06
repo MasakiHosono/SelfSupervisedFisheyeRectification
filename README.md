@@ -1,6 +1,8 @@
 # SelfSupervisedFiseyeRectification
 An official pytorch implementation of the paper "Self-Supervised Fisheye Image Rectification by Reconstructing Coordinate Relations"
 
+![results.png](https://raw.githubusercontent.com/MasakiHosono/SelfSupervisedFiseyeRectification/main/statics/results.png?token=AE3JGTILIUUWKEVVPLRUK33ANSDHY "results.png")
+
 ### Quick start
 1. Clone the project.
    ```
