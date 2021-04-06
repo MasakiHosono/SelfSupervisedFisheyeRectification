@@ -3,6 +3,10 @@ An official pytorch implementation of the paper "Self-Supervised Fisheye Image R
 
 ![results.png](https://raw.githubusercontent.com/MasakiHosono/SelfSupervisedFiseyeRectification/main/statics/results.png?token=AE3JGTILIUUWKEVVPLRUK33ANSDHY "results.png")
 
+Our network is based on single parameter division model, architecture is shown below.
+
+![net_arch_full.png](https://raw.githubusercontent.com/MasakiHosono/SelfSupervisedFiseyeRectification/main/statics/net_arch_full.png?token=AE3JGTLUPWYQ2A5AUECNC23ANSDOS "net_arch_full.png")
+
 ### Quick start
 1. Clone the project.
    ```
