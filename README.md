@@ -1,7 +1,7 @@
 # SelfSupervisedFiseyeRectification
 An official pytorch implementation of the paper "Self-Supervised Fisheye Image Rectification by Reconstructing Coordinate Relations"
 
-![results.png](https://anonymous.4open.science/repository/51424644-8044-46cc-9f5b-3ebb0a6a5ce7/statics/results.png "results.png")
+![results.png](https://raw.githubusercontent.com/MasakiHosono/SelfSupervisedFiseyeRectification/main/statics/results.png?token=AE3JGTNHNWMGTDYSXFK7PHDAOVLIQ "results.png")
 
 Our network is based on single parameter division model, architecture is shown below.
 
