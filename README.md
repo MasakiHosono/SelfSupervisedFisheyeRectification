@@ -36,4 +36,13 @@ Our network is based on single parameter division model, architecture is shown b
    ```
 
 ### Citation
-TBD
+```
+@inproceedings{hosono2021self,
+  title={Self-Supervised Deep Fisheye Image Rectification Approach using Coordinate Relations},
+  author={Hosono, Masaki and Simo-Serra, Edgar and Sonoda, Tomonari},
+  booktitle={2021 17th International Conference on Machine Vision and Applications (MVA)},
+  pages={1--5},
+  year={2021},
+  organization={IEEE}
+}
+```
